@@ -1,11 +1,9 @@
-# AzerothMoments — roadmap
+# Roadmap
 
-**Author:** Babuni.dev
+## Current role
 
-## Actual current status
+This repository is a pointer to the active publishing project. It contains documentation and has no application code or tests of its own.
 
-Placeholder; README-only. No code or tests available.
+## What remains open
 
-## Unresolved (not an approved feature schedule)
-
-Keep this a clear pointer until a distinct purpose or explicit migration is established.
+A distinct purpose or an explicit decision to move the application would give this repository a new role. For now, the [README](README.md) directs visitors to the working project.

@@ -1,7 +1,7 @@
-# AzerothMoments — decisions
+# Project decisions
 
-**Author:** Babuni.dev
+## Keep the repository roles separate
 
-Distinguish the empty alias repository from the working publishing tool rather than duplicating its implementation or development history.
+AzerothMoments reserves the name and directs visitors to the active publishing project. The hyphenated repository holds the implementation and its development history. Keeping a single home for those records makes it clear which repository readers should use.
 
-No further design decisions were recovered from the current repository files.
+The October 26, 2026 inspection found no further design decisions in this repository.

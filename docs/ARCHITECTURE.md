@@ -1,7 +1,5 @@
-# AzerothMoments — architecture status
+# Where the application lives
 
-**Author:** Babuni.dev
+This repository contains project documentation. The source for the screenshot and video publishing application lives in [azeroth-moments](https://github.com/babunidev/azeroth-moments).
 
-No source is committed in this repository; README.md points to the active implementation in the hyphenated repository.
-
-No architecture has been implemented in this repository. Do not substitute architecture from a similarly named project without explicit integration.
+If the application ever moves here, document the migration before describing its architecture as part of this repository. See the [roadmap](../ROADMAP.md).

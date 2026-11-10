@@ -1,9 +1,14 @@
-# AzerothMoments — agent guidance
+# Contributor instructions
 
-**Human creative:** Babuni
+Read the [documentation guide](docs/DOCUMENTATION.md) before editing project records.
 
-This repository is currently a placeholder. Do not invent features, missing content, build history or accepted milestones. Distinguish projects by exact repository name and track provenance when content is later added. Original direction belongs to Babuni; AI contributions require separate attribution.
+## Repository scope
 
-## Repository-local documentation standard
+- Use the exact repository names when describing the two projects. `AzerothMoments` reserves the name. `azeroth-moments` holds the publishing application.
+- Verify claims against the relevant repository. Record where the information came from and preserve the distinction between proposed, implemented, and verified work.
+- Keep the reserved repository focused on navigation and its own history until a distinct purpose or migration is approved.
 
-Before writing or changing project documentation, read [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md). These rules travel with this repository and do not depend on the babuni.dev ChatGPT Project. Preserve all project-specific technical, creative, canon, safety, licensing, and historical rules in this file; follow the linked standard for public first-person narrative, human–AI attribution, concise development journals, decision records, and evidence-based verification. **Babuni** is the human creative; **babuni.dev** is the website/portfolio, not the person. Preserve third-party credits and historical legal notices. References above to a dated “documentation-only audit” describe that past task, not a permanent ban on later authorized implementation.
+## Authorship and publication
+
+- Credit Babuni for original creative direction and record AI contributions separately. Use the linked guide for public first-person narratives, concise journal entries, and decision records.
+- Preserve third-party credits and historical legal notices, along with any applicable project-specific technical, creative, canon, safety, licensing, and historical rules.

@@ -1,9 +1,9 @@
-# AzerothMoments — development journal
+# AzerothMoments development journal
 
-**Author:** Babuni.dev
+**Creative:** Babuni
 
-## Retrospective repository inspection — 2026-10-26
+## October 26, 2026 — Giving the reservation a clear purpose
 
-A reserved repository. The active screenshot/video publishing application is recorded separately in babunidev/azeroth-moments. No source is committed in this repository; README.md points to the active implementation in the hyphenated repository. Distinguish the empty alias repository from the working publishing tool rather than duplicating its implementation or development history.
+The repository inspection found only a README reserving the AzerothMoments name. My working screenshot and video publishing project was already in [azeroth-moments](https://github.com/babunidev/azeroth-moments), so the two names were easy to confuse.
 
-The available evidence is a README-only reservation, not a working application. AI introduced documentation to make that absence explicit and prevent future misattribution. No prior iterations or tests are claimed. Keep this a clear pointer until a distinct purpose or explicit migration is established.
+AI added a short project record that sends readers to the active repository for the application and its history. That work was limited to documentation. This entry is a retrospective based on the repository inspection.
