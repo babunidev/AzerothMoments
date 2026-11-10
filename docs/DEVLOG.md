@@ -1,6 +1,6 @@
 # AzerothMoments — development journal
 
-**Author:** Babuni.dev
+**Creative:** Babuni
 
 ## Retrospective repository inspection — 2026-10-26
 
