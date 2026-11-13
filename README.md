@@ -11,3 +11,7 @@ Reserved project repository. The active publishing application is maintained sep
 - [AI collaborator rules](AGENTS.md)
 
 The journal distinguishes source-based reconstruction, author direction, AI assistance, and independently verified behavior.
+
+## License
+
+Original documentation is licensed under [Creative Commons Attribution 4.0 International](LICENSE). The active publishing program is maintained in [azeroth-moments](https://github.com/babunidev/azeroth-moments), which uses MIT.
